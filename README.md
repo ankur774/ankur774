@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ankur774
 - 👀 I’m interested in cricket
 - 🌱 I’m currently learning python
--  How to reach me ankur774@gmail.com
+- 💞️ I’m looking to collaborate on interesting and challenging projects
+- 📫 How to reach me ankur774@gmail.com
 
 
 <!---
